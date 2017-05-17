@@ -1,0 +1,2 @@
+﻿// ユニコード
+#include "common.h"
